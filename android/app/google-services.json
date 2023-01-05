@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "4772398950",
+    "project_id": "shoppy-1d1a6",
+    "storage_bucket": "shoppy-1d1a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4772398950:android:4f4cca77cbdaf29d76aaa7",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4772398950-klld8qrtg1lqn6ll2rfrq88age4tn580.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHMCzkJ5ag_KJDj6szmrzKakk9fhvQ2xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4772398950-klld8qrtg1lqn6ll2rfrq88age4tn580.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "4772398950-r3phstmpmhgj60b5s8nq4t02tdmsp0j6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodDelivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
